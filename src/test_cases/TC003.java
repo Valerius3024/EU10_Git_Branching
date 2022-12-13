@@ -7,4 +7,6 @@ public class TC003 {
     // updated
 
     // third line
+
+    // fourth line
 }
